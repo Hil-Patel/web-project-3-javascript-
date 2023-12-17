@@ -3,7 +3,19 @@
   margin: auto;
   text-align: center;
 }
-
+.container a{
+  
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #4ECCA3;
+}
+.container a div{
+  font-family: 'Lobster', cursive;
+  display: inline;
+  border-radius: 30px;
+  padding: 10px 20px;
+  background-color: #20242b;
+}
 .dice {
   text-align: center;
   display: inline-block;
